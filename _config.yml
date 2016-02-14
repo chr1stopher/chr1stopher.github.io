@@ -5,20 +5,20 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Thoughts on stuff, and more'
+description: "Yet another attempt to write stuff down. Hopefully more successful than the previous one. Shouldn't be difficult."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Christopher Andrey'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+nickname: christopher
+bio: 'Just a curious guy'
+location: 'London, UK'
+url: 'http://chr1stopher.github.io/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'chr1stopher.github.io'
+#google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 #baseurl: /jasper/
